@@ -1,0 +1,8 @@
+.key-value-pair {
+    margin-bottom: 10px;
+    display: flex;
+    gap: 8px;
+  }
+  .remove-btn {
+    margin-left: 10px;
+  }
