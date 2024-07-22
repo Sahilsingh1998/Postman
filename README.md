@@ -1,2 +1,2 @@
 # postman
- Create a postman through JavaScript
+ Create a clone postman app through JavaScript
